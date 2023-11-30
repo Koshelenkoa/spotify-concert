@@ -1,0 +1,22 @@
+body{
+  background-color: rgb(24, 24, 24);
+}
+
+h1 {
+  text-align: start;
+  font-family: monospace;
+  font-weight: 800;
+}
+
+img {
+  border-radius: 50%;
+  size: 10%;
+  align-self: flex-start;
+}
+
+.artist-container {
+  background-color: rgb(255, 255, 255);
+  border-radius: 15px;
+  display: inline-block;
+}
+
